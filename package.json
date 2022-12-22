@@ -150,7 +150,7 @@
     "assertion-error-formatter": "^2.0.1",
     "bluebird": "^3.4.1",
     "cli-table3": "^0.5.1",
-    "colors": "^1.1.2",
+    "colors": "^1.4.0",
     "commander": "^2.9.0",
     "cross-spawn": "^6.0.5",
     "cucumber-expressions": "^6.0.0",
